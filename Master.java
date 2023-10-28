@@ -8,7 +8,7 @@ public class Master{
         meinArray[0] = 7;
         meinArray[1] = 12;
         // auch möglich:
-        // int[] meinArray = int[] {7, 12, 6, 4};
+        // int[] meinArray = {7, 12, 6, 4};
 
 
        System.out.println("Feld 1: " + meinArray[0]);
